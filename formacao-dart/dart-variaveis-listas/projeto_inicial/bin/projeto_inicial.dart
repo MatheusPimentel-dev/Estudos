@@ -14,9 +14,11 @@ void main() {
       'Tenho $altura de altura e'
       'tenho $idade anos de idade';
 
+  List<String> listanomes = ['Ricarth', 'Natália', 'Alex', 'Ândriu', 'André'];
+
   // print(idade);
   // print(altura);
   // print(expone);
   // print(geek);
-  print(frase);
+  print(listanomes.length);
 }
